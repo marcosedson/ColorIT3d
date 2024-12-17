@@ -50,6 +50,10 @@
 
   <li>Instale as dependências do projeto:</li>
   <pre><code>npm install</code></pre>
+  
+  <li>Rode o Projeto:</li>
+  <pre><code>npx expo start</code></pre>
+
 
 ---
 
