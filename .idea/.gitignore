@@ -3,3 +3,12 @@
 /workspace.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+# Ignorar a pasta gerada pelo Expo
+.expo/
+node_modules/
+package-lock.json
+metro-cache/
+*.log
+build/
+dist/
+.expo-shared/
