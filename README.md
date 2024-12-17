@@ -66,4 +66,4 @@
 
 <h2>🌟 Design</h2>
 
-<p align="center">🧩 O design deste projeto foi pensado para simplicidade e fluidez. <br> <strong>Design by: Marcos Marçon</strong> 🎨</p>
+<p align="center">🧩 O design deste projeto foi pensado para simplicidade e fluidez. <br> <strong>Design by: Marcos Marçon</strong> 🎨</p></ol>
