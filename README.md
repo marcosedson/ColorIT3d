@@ -43,7 +43,7 @@
 
 <ol>
   <li>Clone o repositório:</li>
-  <pre><code>git clone https://github.com/seuusuario/ColorIT3d.git</code></pre>
+  <pre><code>git clone https://github.com/marcosedson/ColorIT3d</code></pre>
 
   <li>Instale o <strong>Expo CLI</strong> globalmente (caso não tenha):</li>
   <pre><code>npm install -g expo-cli</code></pre>
